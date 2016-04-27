@@ -11,6 +11,4 @@
   
 Indu is chaning a data
 
-Masking changes after stashing
-Testing Stash
-
+Trying to stash the value : Indu  : stash 2
