@@ -10,4 +10,7 @@
 - Run APP: `$ mvn tomcat:run`
   
 Indu is chaning a data
+
 Masking changes after stashing
+Testing Stash
+
